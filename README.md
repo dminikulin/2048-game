@@ -25,7 +25,7 @@ If you want to run the project locally, do the following steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/dminikulin/museum-page.git
+git clone https://github.com/dminikulin/2048-game.git
 ```
 2. Install dependencies:
 ```
@@ -42,4 +42,4 @@ yarn install
 
 ### Live demo
 
-You can play the game here:
+You can play the game [HERE](https://dminikulin.github.io/2048-game/)
