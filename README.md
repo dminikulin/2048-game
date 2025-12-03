@@ -1,4 +1,45 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# 2048 game
+
+This project is a replica of 2048 game.
+
+### How to play
+
+1. Press "Start" to start the game.
+2. Move cells with arrows. The rules just like in classic 2048 game.
+3. You will see your score in the cell nearby "Start"/"Restart" button.
+4. At any point in the game you can press "Restart", if you want to start over.
+
+### Tech stack
+
+**Design:**
+- HTML
+- CSS (Scss)
+- Sass
+
+**Logic:**
+- JavaScript (ES6)
+
+### Getting started
+
+If you want to run the project locally, do the following steps:
+
+1. Clone the repository:
+```
+git clone https://github.com/dminikulin/museum-page.git
+```
+2. Install dependencies:
+```
+npm install
+# or
+yarn install
+```
+3. Run the project in local environment:
+```
+npm install
+# or
+yarn install
+```
+
+### Live demo
+
+You can play the game here:
